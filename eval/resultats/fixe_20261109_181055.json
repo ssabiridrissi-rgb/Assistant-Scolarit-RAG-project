@@ -1,0 +1,558 @@
+{
+  "resume": {
+    "configuration": "fixe",
+    "questions": 22,
+    "hit@5": 1.0,
+    "mrr": 0.941,
+    "exactitude_moyenne_0_2": 1.455,
+    "fidelite": 0.706,
+    "refus_correct": "4/5",
+    "refus_a_tort": "0/17",
+    "erreurs_llm": 0,
+    "premiere_requete_s": 37.14,
+    "latence_mediane_s": 33.12,
+    "latence_moyenne_s": 31.225
+  },
+  "details": [
+    {
+      "id": "S01",
+      "categorie": "simple",
+      "question": "Quand faut-il déposer la convention de stage ?",
+      "reponse_attendue": "La convention signée par l'étudiant, l'entreprise et l'École doit être déposée sur le Portail Stages au moins 15 jours calendaires avant le début du stage.",
+      "documents_trouves": [
+        "EIH-SRE-GUIDE-2026",
+        "EIH-SRE-GUIDE-2026",
+        "EIH-SRE-GUIDE-2026",
+        "EIH-SRE-GUIDE-2026",
+        "EIH-DE-CAL-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 8.9,
+      "found": true,
+      "reponse": "La convention de stage doit être déposée sur le Portail Stages au moins 15 jours calendaires avant le début du stage. [1] [2]",
+      "sources_citees": [
+        "EIH-SRE-GUIDE-2026",
+        "EIH-SRE-GUIDE-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "S02",
+      "categorie": "simple",
+      "question": "À partir de quel seuil d'absences non justifiées un étudiant ne peut-il plus passer l'examen final d'un module ?",
+      "reponse_attendue": "Au-delà de 20 % des séances du module en absences non justifiées : l'étudiant ne peut pas se présenter à l'examen final et passe directement au rattrapage (note plafonnée).",
+      "documents_trouves": [
+        "EIH-DE-REG-2026",
+        "EIH-DE-REG-2026",
+        "EIH-DE-REG-2026",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-SCOL-FAQ-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 35.67,
+      "found": true,
+      "reponse": "Un étudiant ne peut plus passer l'examen final d'un module lorsque ses absences non justifiées cumulent supérieurement à 20 % des séances d'un module.}, [1]",
+      "sources_citees": [
+        "EIH-DE-REG-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "S03",
+      "categorie": "simple",
+      "question": "Dans quel délai faut-il justifier une absence ?",
+      "reponse_attendue": "Dans un délai de 48 heures suivant la fin de l'absence.",
+      "documents_trouves": [
+        "EIH-DE-REG-2026",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-REG-2026",
+        "EIH-DE-REG-2026",
+        "EIH-DE-REG-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 27.74,
+      "found": true,
+      "reponse": "Vous devez justifier une absence dans un délai de 48 heures suivant la fin de l'absence. [1]",
+      "sources_citees": [
+        "EIH-DE-REG-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "S04",
+      "categorie": "simple",
+      "question": "Combien de temps a-t-on pour contester une note ?",
+      "reponse_attendue": "La réclamation écrite doit être formulée dans les 5 jours ouvrables suivant la publication des résultats.",
+      "documents_trouves": [
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-REG-2026",
+        "EIH-DE-REG-2026",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-SRE-GUIDE-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 38.65,
+      "found": true,
+      "reponse": "Vous avez 5 jours ouvrables pour contester une note selon les textes réglementaires (EIH-DE-REG-2026) et pour déposer une réclamation écrite au Service de la Scolarité (EIH-DE-REG-2026). [2] [3]",
+      "sources_citees": [
+        "EIH-DE-REG-2026",
+        "EIH-DE-REG-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "S05",
+      "categorie": "simple",
+      "question": "Quelle est la note maximale d'un module après rattrapage sans absence justifiée ?",
+      "reponse_attendue": "La note du module après rattrapage est plafonnée à 12/20 (sauf absence justifiée).",
+      "documents_trouves": [
+        "EIH-DE-REG-2026",
+        "EIH-DE-REG-2026",
+        "EIH-DE-REG-2026",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-REG-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 27.69,
+      "found": true,
+      "reponse": "La note maximale d'un module après rattrapage sans absence justifiée est de 12/20. [1] [3]",
+      "sources_citees": [
+        "EIH-DE-REG-2026",
+        "EIH-DE-REG-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 0
+    },
+    {
+      "id": "S06",
+      "categorie": "simple",
+      "question": "Combien de lits compte la résidence étudiante ?",
+      "reponse_attendue": "La résidence étudiante compte 320 lits en chambres individuelles.",
+      "documents_trouves": [
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BVE-GUIDE-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 22.97,
+      "found": true,
+      "reponse": "La résidence étudiante de l'École compte 320 lits en chambres individuelles. [1]",
+      "sources_citees": [
+        "EIH-BVE-GUIDE-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "S07",
+      "categorie": "simple",
+      "question": "Combien de places de semestre d'études à l'étranger sont ouvertes au total ?",
+      "reponse_attendue": "16 places de semestre d'études, dont 5 en double diplôme (Institut Nordique : 3 ; Hochschule Lindenfeld : 2).",
+      "documents_trouves": [
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-DE-REG-2026",
+        "EIH-SRE-GUIDE-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 35.47,
+      "found": true,
+      "reponse": "4 places de semestre d'études à l'étranger sont ouvertes au total. [1] [4]",
+      "sources_citees": [
+        "EIH-BRI-CHARTE-2026",
+        "EIH-DE-REG-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 0,
+      "fidelite_auto": 0
+    },
+    {
+      "id": "S08",
+      "categorie": "simple",
+      "question": "Combien de temps dure la soutenance du PFE ?",
+      "reponse_attendue": "30 minutes de présentation suivies de 20 minutes d'échanges avec un jury de trois membres.",
+      "documents_trouves": [
+        "EIH-DE-NS-2026-14",
+        "EIH-SRE-GUIDE-2026",
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14",
+        "EIH-SRE-GUIDE-2026"
+      ],
+      "rang_pertinent": 2,
+      "hit": 1,
+      "rr": 0.5,
+      "latence_s": 38.18,
+      "found": true,
+      "reponse": "La durée minimale du PFE est de 18 semaines et la durée maximale reste à 24 semaines. [1] [3] [4] [6] [7]",
+      "sources_citees": [
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 0,
+      "fidelite_auto": 0
+    },
+    {
+      "id": "S09",
+      "categorie": "simple",
+      "question": "Quel est le plafond de la subvention annuelle d'un club ?",
+      "reponse_attendue": "15 000 MAD par club et par an.",
+      "documents_trouves": [
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-DE-CAL-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 24.43,
+      "found": true,
+      "reponse": "Le plafond de la subvention annuelle d'un club est de 15 000 MAD par club et par an. [1]",
+      "sources_citees": [
+        "EIH-BVE-GUIDE-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "Y01",
+      "categorie": "synthese",
+      "question": "Que doit faire un groupe d'étudiants pour créer un club et obtenir une subvention ?",
+      "reponse_attendue": "Déposer au BVE un dossier (au moins 10 membres fondateurs, un enseignant référent, des statuts, une présentation des objectifs) ; la création est validée par la Direction. Subvention : demande au BVE avant le 30 octobre avec budget prévisionnel, plafond 15 000 MAD par an, bilan financier avant le 30 juin.",
+      "documents_trouves": [
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-DE-CAL-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 44.03,
+      "found": true,
+      "reponse": "Un groupe d'étudiants doit déposer un dossier au Bureau des Étudiants (BVE) comprenant une liste d'au moins 10 étudiants membres fondateurs, le nom d'un enseignant référent, les statuts du club et une présentation des objectifs et des activités prévues pour créer un club. Pour obtenir une subvention, ils doivent déposer une demande avant le 30 octobre avec un budget prévisionnel et remettre un bilan financier accompagné des justificatifs avant le 30 juin. Les clubs doivent respecter certaines conditions pour recevoir une subvention, comme avoir remis leur bilan l'année précédente. [1] [3]",
+      "sources_citees": [
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 1,
+      "fidelite_auto": 0
+    },
+    {
+      "id": "Y02",
+      "categorie": "synthese",
+      "question": "Comment s'inscrire au rattrapage en 2026-2027 et quelle note peut-on obtenir ?",
+      "reponse_attendue": "Inscription obligatoire sur le Portail Scolarité dans les 5 jours ouvrables après les résultats : au plus tard le 12 février 2027 (semestres impairs) et le 30 juin 2027 (semestres pairs). La note est plafonnée à 12/20, sauf absence justifiée.",
+      "documents_trouves": [
+        "EIH-SCOL-FAQ-2026",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-CAL-2026",
+        "EIH-DE-CAL-2026",
+        "EIH-DE-CAL-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 33.25,
+      "found": true,
+      "reponse": "Pour s'inscrire au rattrapage en 2026-2027, il faut inscrire son compte sur le Portail Scolarité dans les 5 jours ouvrables suivant la publication des résultats. Les dates limites d'inscription sont le 12 février 2027 pour les modules S1, S3, S5 et le 30 juin 2027 pour les modules S2, S4. La note initiale est conservée sans inscription. [1] [3] [4] [5]",
+      "sources_citees": [
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-CAL-2026",
+        "EIH-DE-CAL-2026",
+        "EIH-DE-CAL-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 1,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "Y03",
+      "categorie": "synthese",
+      "question": "Quelles sont les conditions pour obtenir le diplôme d'ingénieur ?",
+      "reponse_attendue": "Avoir acquis les 180 crédits (dont les 30 du PFE), avoir validé le stage d'initiation et le stage technique, et justifier d'un niveau d'anglais B2 au plus tard à la soutenance du PFE.",
+      "documents_trouves": [
+        "EIH-BRI-CHARTE-2026",
+        "EIH-DE-REG-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-DE-REG-2026",
+        "EIH-BRI-CHARTE-2026"
+      ],
+      "rang_pertinent": 2,
+      "hit": 1,
+      "rr": 0.5,
+      "latence_s": 32.79,
+      "found": true,
+      "reponse": "Le diplôme d'ingénieur de l'EIH est délivré à l'étudiant qui remplit l'ensemble des conditions suivantes : avoir acquis les 180 crédits du cycle, dont les 30 crédits du PFE ; avoir validé le stage d'initiation (fin de 1A) et le stage technique. [2]",
+      "sources_citees": [
+        "EIH-DE-REG-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 1,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "Y04",
+      "categorie": "synthese",
+      "question": "Quelles conditions faut-il remplir pour candidater à un semestre d'études ou à un double diplôme ?",
+      "reponse_attendue": "Être inscrit en 2A, avoir au moins 12/20 de moyenne en S3 (14/20 pour le double diplôme), un niveau B2 dans la langue d'enseignement et aucune sanction disciplinaire.",
+      "documents_trouves": [
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 37.76,
+      "found": true,
+      "reponse": "Pour candidater à un semestre d'études ou à un double diplôme, l'étudiant doit remplir les conditions suivantes : être inscrit en 2A au moment de la candidature, avoir obtenu une moyenne d'au moins 12/20 au semestre S3, justifier d'un niveau B2 (CECRL) dans la langue d'enseignement de l'établissement demandé, attesté par une certification reconnue par le Département des Langues, et n'avoir fait l'objet d'aucune sanction disciplinaire. Pour le double diplôme, la moyenne de S3 requise est portée à 14/20. [1] [4]",
+      "sources_citees": [
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "Y05",
+      "categorie": "synthese",
+      "question": "Comment se passe la soutenance du stage technique pour un étudiant en mobilité en S5 ?",
+      "reponse_attendue": "Elle a lieu en octobre de la 3A (du 4 au 15 octobre 2026), à distance par visioconférence.",
+      "documents_trouves": [
+        "EIH-DE-CAL-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-SRE-GUIDE-2026",
+        "EIH-SRE-GUIDE-2026",
+        "EIH-SRE-GUIDE-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 37.81,
+      "found": true,
+      "reponse": "La soutenance du stage technique pour un étudiant en mobilité en S5 se déroule par visioconférence, comme stipulé dans le Guide pratique EIH-SRE-GUIDE-2026, version 3.0, sous réserve des notes de service ultérieures. [1] [3]",
+      "sources_citees": [
+        "EIH-DE-CAL-2026",
+        "EIH-SRE-GUIDE-2026"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 1,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "V01",
+      "categorie": "version",
+      "question": "Quelle est la durée minimale d'un PFE qui commence en février 2027 ?",
+      "reponse_attendue": "18 semaines : la note de service 2026-14 porte la durée minimale de 16 à 18 semaines pour les PFE débutant à partir du 1er février 2027.",
+      "documents_trouves": [
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-CAL-2026",
+        "EIH-DE-NS-2026-14",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-SRE-GUIDE-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 43.64,
+      "found": true,
+      "reponse": "La durée minimale d'un PFE qui commence en février 2027 est de 18 semaines, comme stipulé dans la Note de service [1] et confirmé par la Note de service [3] qui modifie partiellement le Guide des stages et du PFE [EIH-SRE-GUIDE-2026, version 3.0].",
+      "sources_citees": [
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "V02",
+      "categorie": "version",
+      "question": "Combien de jours avant la soutenance faut-il déposer le rapport d'un PFE commencé en février 2027 ?",
+      "reponse_attendue": "14 jours calendaires avant la soutenance (au lieu de 10 dans le Guide), selon la note de service 2026-14.",
+      "documents_trouves": [
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-CAL-2026",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-CAL-2026"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 43.12,
+      "found": true,
+      "reponse": "Le rapport d'un PFE commencé en février 2027 doit être déposé 14 jours calendaires avant la date de soutenance, conformément aux articles 2 et 4 de la Note de service EIH-DE-NS-2026-14. [1] [6]",
+      "sources_citees": [
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 2,
+      "fidelite_auto": 1
+    },
+    {
+      "id": "V03",
+      "categorie": "version",
+      "question": "Le rapport de PFE doit-il contenir une déclaration d'utilisation de l'IA générative ?",
+      "reponse_attendue": "Oui, pour les PFE débutant à partir du 1er février 2027 : une annexe obligatoire « Déclaration d'utilisation des outils d'IA générative » ; sans elle, le rapport est irrecevable.",
+      "documents_trouves": [
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-NS-2026-14"
+      ],
+      "rang_pertinent": 1,
+      "hit": 1,
+      "rr": 1.0,
+      "latence_s": 46.79,
+      "found": true,
+      "reponse": "Le rapport de PFE doit contenir une déclaration d'utilisation de l'IA générative, qui doit inclure les outils utilisés, les parties du travail concernées et la manière dont les contenus ont été vérifiés par l'étudiant. L'absence de cette déclaration rend le rapport irrecevable jusqu'à sa régularisation. [1] [3] [5]",
+      "sources_citees": [
+        "EIH-DE-NS-2026-14",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-NS-2026-14"
+      ],
+      "refus_a_tort": 0,
+      "exactitude_auto": 0,
+      "fidelite_auto": 0
+    },
+    {
+      "id": "H01",
+      "categorie": "hors_corpus",
+      "question": "Quel est le prix du repas au restaurant de l'École ?",
+      "reponse_attendue": "REFUS (le Guide donne les horaires du restaurant, pas de prix).",
+      "documents_trouves": [
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-BRI-CHARTE-2026"
+      ],
+      "latence_s": 28.94,
+      "found": false,
+      "reponse": "Je ne trouve pas cette information dans les documents de l'École.",
+      "sources_citees": [],
+      "refus_correct": 1,
+      "exactitude_auto": 2
+    },
+    {
+      "id": "H02",
+      "categorie": "hors_corpus",
+      "question": "Le stage d'initiation est-il rémunéré ?",
+      "reponse_attendue": "REFUS (aucune règle de rémunération dans le corpus).",
+      "documents_trouves": [
+        "EIH-SRE-GUIDE-2026",
+        "EIH-DE-CAL-2026",
+        "EIH-DE-NS-2026-14",
+        "EIH-DE-REG-2026",
+        "EIH-SRE-GUIDE-2026"
+      ],
+      "latence_s": 33.0,
+      "found": true,
+      "reponse": "Le stage d'initiation est prévu pour 4 semaines, avec 2 ECTS validés en S3, mais il n'y a pas de mention sur sa rémunération dans les extraits fournis. [1]",
+      "sources_citees": [
+        "EIH-SRE-GUIDE-2026"
+      ],
+      "refus_correct": 0,
+      "exactitude_auto": 0
+    },
+    {
+      "id": "H03",
+      "categorie": "hors_corpus",
+      "question": "Quand a lieu la journée d'intégration ?",
+      "reponse_attendue": "REFUS (aucune journée d'intégration dans le corpus).",
+      "documents_trouves": [
+        "EIH-DE-CAL-2026",
+        "EIH-DE-CAL-2026",
+        "EIH-DE-CAL-2026",
+        "EIH-DE-CAL-2026",
+        "EIH-SCOL-FAQ-2026"
+      ],
+      "latence_s": 20.86,
+      "found": false,
+      "reponse": "Je ne trouve pas cette information dans les documents de l'École.",
+      "sources_citees": [],
+      "refus_correct": 1,
+      "exactitude_auto": 2
+    },
+    {
+      "id": "H04",
+      "categorie": "hors_corpus",
+      "question": "Quels sont les frais d'inscription annuels ?",
+      "reponse_attendue": "REFUS (aucun montant de frais d'inscription dans le corpus).",
+      "documents_trouves": [
+        "EIH-BRI-CHARTE-2026",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-BVE-GUIDE-2026",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-CAL-2026"
+      ],
+      "latence_s": 25.18,
+      "found": false,
+      "reponse": "Je ne trouve pas cette information dans les documents de l'École.",
+      "sources_citees": [],
+      "refus_correct": 1,
+      "exactitude_auto": 2
+    },
+    {
+      "id": "H05",
+      "categorie": "hors_corpus",
+      "question": "Qui a gagné la Coupe du monde de football 2022 ?",
+      "reponse_attendue": "REFUS (sans rapport avec l'École).",
+      "documents_trouves": [
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-BRI-CHARTE-2026",
+        "EIH-SCOL-FAQ-2026",
+        "EIH-DE-CAL-2026"
+      ],
+      "latence_s": 0.07,
+      "found": false,
+      "reponse": "Je ne trouve pas cette information dans les documents de l'École.",
+      "sources_citees": [],
+      "refus_correct": 1,
+      "exactitude_auto": 2
+    }
+  ]
+}

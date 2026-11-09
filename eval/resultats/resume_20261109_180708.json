@@ -1,0 +1,14 @@
+[
+  {
+    "configuration": "structurel",
+    "questions": 22,
+    "hit@5": 1.0,
+    "mrr": 1.0
+  },
+  {
+    "configuration": "fixe",
+    "questions": 22,
+    "hit@5": 1.0,
+    "mrr": 0.941
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "configuration": "structurel",
+    "questions": 22,
+    "hit@5": 1.0,
+    "mrr": 1.0,
+    "exactitude_moyenne_0_2": 1.773,
+    "fidelite": 0.882,
+    "refus_correct": "5/5",
+    "refus_a_tort": "0/17",
+    "erreurs_llm": 0,
+    "premiere_requete_s": 43.3,
+    "latence_mediane_s": 34.38,
+    "latence_moyenne_s": 33.855
+  },
+  {
+    "configuration": "fixe",
+    "questions": 22,
+    "hit@5": 1.0,
+    "mrr": 0.941,
+    "exactitude_moyenne_0_2": 1.455,
+    "fidelite": 0.706,
+    "refus_correct": "4/5",
+    "refus_a_tort": "0/17",
+    "erreurs_llm": 0,
+    "premiere_requete_s": 37.14,
+    "latence_mediane_s": 33.12,
+    "latence_moyenne_s": 31.225
+  }
+]
