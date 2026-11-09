@@ -1,0 +1,13 @@
+
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+data/chroma/
+export_projet*.txt
+node_modules/
+dist/
+*.log
+export_partie*.txt
