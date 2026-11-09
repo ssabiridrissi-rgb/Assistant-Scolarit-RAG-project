@@ -1,0 +1,485 @@
+[
+  {
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 1,
+    "text": "Année : 1A — Semestres : S1, S2 — Contenu principal : Tronc commun scientifique et informatique — Crédits : 60"
+  },
+  {
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 2,
+    "text": "Année : 2A — Semestres : S3, S4 — Contenu principal : Approfondissement et début de la filière ; validation du stage d'initiation en S3 — Crédits : 60"
+  },
+  {
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 3,
+    "text": "Année : 3A — Semestres : S5, S6 — Contenu principal : S5 : modules de filière et validation du stage technique ; S6 : Projet de Fin d'Études — Crédits : 60"
+  },
+  {
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "page": 4,
+    "table": 1,
+    "row": 1,
+    "text": "Moyenne générale du cycle : supérieure ou égale à 16/20 — Mention : Très bien"
+  },
+  {
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "page": 4,
+    "table": 1,
+    "row": 2,
+    "text": "Moyenne générale du cycle : de 14/20 à moins de 16/20 — Mention : Bien"
+  },
+  {
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "page": 4,
+    "table": 1,
+    "row": 3,
+    "text": "Moyenne générale du cycle : de 12/20 à moins de 14/20 — Mention : Assez bien"
+  },
+  {
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "page": 4,
+    "table": 1,
+    "row": 4,
+    "text": "Moyenne générale du cycle : de 10/20 à moins de 12/20 — Mention : Passable"
+  },
+  {
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 1,
+    "text": "Période : Stage d'initiation — Année : Fin de 1A — Durée minimale : 4 semaines — Période de réalisation : Entre le 1er juillet et le 31 août — Crédits / rattachement : 2 ECTS, validés en S3"
+  },
+  {
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 2,
+    "text": "Période : Stage technique — Année : Fin de 2A — Durée minimale : 8 semaines — Période de réalisation : Entre le 1er juillet et le 15 septembre — Crédits / rattachement : 4 ECTS, validés en S5"
+  },
+  {
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 3,
+    "text": "Période : Projet de Fin d'Études — Année : 3A (S6) — Durée minimale : 16 semaines (maximum 24) — Période de réalisation : Début entre le 1er février et le 1er mars — Crédits / rattachement : 30 ECTS (semestre S6)"
+  },
+  {
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "page": 3,
+    "table": 1,
+    "row": 1,
+    "text": "Composante : Travail en entreprise — Pondération : 30 % — Évaluateur : Encadrant en entreprise (fiche d'évaluation)"
+  },
+  {
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "page": 3,
+    "table": 1,
+    "row": 2,
+    "text": "Composante : Rapport écrit — Pondération : 30 % — Évaluateur : Jury"
+  },
+  {
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "page": 3,
+    "table": 1,
+    "row": 3,
+    "text": "Composante : Soutenance orale — Pondération : 40 % — Évaluateur : Jury"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 1,
+    "text": "Forme : Semestre d'études — Période : Semestre S5 (3A) — Durée : Un semestre — Effet sur le cursus : Les 30 crédits de S5 sont obtenus chez le partenaire."
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 2,
+    "text": "Forme : Double diplôme — Période : S5 + un semestre supplémentaire chez le partenaire, puis PFE — Durée : Trois semestres — Effet sur le cursus : Le cycle est prolongé d'un semestre ; l'étudiant obtient le diplôme de l'EIH et celui du partenaire."
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 3,
+    "text": "Forme : PFE à l'étranger — Période : Semestre S6 (3A) — Durée : Durée fixée par les règles du PFE en vigueur — Effet sur le cursus : Règles du Guide des stages et du PFE ; soutenance possible à distance."
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 1,
+    "table": 3,
+    "row": 1,
+    "text": "Établissement partenaire (fictif) : Université Polytechnique de Valmorel — Langue d'enseignement : Anglais — Places : 4 — Double diplôme : Non"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 1,
+    "table": 3,
+    "row": 2,
+    "text": "Établissement partenaire (fictif) : Institut Nordique des Sciences Numériques — Langue d'enseignement : Anglais — Places : 3 — Double diplôme : Oui"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 1,
+    "table": 3,
+    "row": 3,
+    "text": "Établissement partenaire (fictif) : École Technique de Saint-Aurèle — Langue d'enseignement : Français — Places : 5 — Double diplôme : Non"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 1,
+    "table": 3,
+    "row": 4,
+    "text": "Établissement partenaire (fictif) : Universidad Técnica de Costaluz — Langue d'enseignement : Espagnol — Places : 2 — Double diplôme : Non"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 1,
+    "table": 3,
+    "row": 5,
+    "text": "Établissement partenaire (fictif) : Hochschule Lindenfeld — Langue d'enseignement : Anglais ou allemand — Places : 2 — Double diplôme : Oui"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 1,
+    "text": "Étape : Dépôt du dossier (CV, lettre de motivation, relevé de notes S3, certificat de langue, trois vœux classés) — Échéance : 15 mars de l'année précédant le départ — Responsable : Étudiant"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 2,
+    "text": "Étape : Réunion de la commission de sélection — Échéance : Fin mars — Responsable : BRI et responsables de filière"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 3,
+    "text": "Étape : Publication des résultats — Échéance : Au plus tard le 15 avril — Responsable : BRI"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 4,
+    "text": "Étape : Signature du contrat d'études (learning agreement) — Échéance : Avant le 30 juin — Responsable : Étudiant, responsable de filière, partenaire"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 5,
+    "text": "Étape : Confirmation de la sélection après les résultats de 2A — Échéance : Après les délibérations de juillet — Responsable : Jury de 2A et BRI"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 3,
+    "table": 1,
+    "row": 1,
+    "text": "Aide (fictive) : Bourse Hélianthe Mobilité — Montant : 5 000 MAD par mois, pendant 5 mois au maximum — Bénéficiaires : 10 étudiants au plus par an"
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "page": 3,
+    "table": 1,
+    "row": 2,
+    "text": "Aide (fictive) : Aide forfaitaire au voyage — Montant : 3 000 MAD, versés une seule fois — Bénéficiaires : Tous les étudiants retenus pour un semestre d'études ou un double diplôme"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 1,
+    "text": "Date ou période : Lundi 14 septembre 2026 — Événement : Rentrée universitaire et début des cours — Public : 1A, 2A, 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 2,
+    "text": "Date ou période : Mercredi 30 septembre 2026 — Événement : Date limite de dépôt du rapport de stage d'initiation — Public : 2A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 3,
+    "text": "Date ou période : Du lundi 4 au vendredi 15 octobre 2026 — Événement : Soutenances des stages techniques (à distance pour les étudiants en mobilité) — Public : 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 4,
+    "text": "Date ou période : Du lundi 26 octobre au dimanche 1er novembre 2026 — Événement : Congé de mi-semestre — Public : Tous"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 5,
+    "text": "Date ou période : Vendredi 30 octobre 2026 — Événement : Date limite des demandes d'aménagement d'épreuves (Bureau de la Vie Étudiante) — Public : Tous"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 6,
+    "text": "Date ou période : Vendredi 30 octobre 2026 — Événement : Date limite des demandes de subvention des clubs — Public : Bureaux des clubs"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 7,
+    "text": "Date ou période : Mardi 15 décembre 2026 — Événement : Date limite de dépôt de la fiche sujet de PFE — Public : 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 8,
+    "text": "Date ou période : Du lundi 21 décembre 2026 au dimanche 3 janvier 2027 — Événement : Vacances d'hiver — Public : Tous"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 9,
+    "text": "Date ou période : Vendredi 15 janvier 2027 — Événement : Fin des cours des semestres impairs — Public : 1A, 2A, 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 10,
+    "text": "Date ou période : Du lundi 18 au vendredi 29 janvier 2027 — Événement : Examens finaux S1, S3, S5 — Public : 1A, 2A, 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 11,
+    "text": "Date ou période : Vendredi 5 février 2027 — Événement : Publication des résultats des semestres impairs — Public : 1A, 2A, 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 12,
+    "text": "Date ou période : Vendredi 12 février 2027 — Événement : Date limite d'inscription au rattrapage des modules S1, S3, S5 — Public : 1A, 2A, 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 1,
+    "text": "Date ou période : Du lundi 1er février au lundi 1er mars 2027 — Événement : Fenêtre de début du PFE — Public : 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 2,
+    "text": "Date ou période : Lundi 8 février 2027 — Événement : Début des cours des semestres pairs — Public : 1A, 2A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 3,
+    "text": "Date ou période : Lundi 15 mars 2027 — Événement : Date limite de candidature aux mobilités 2027-2028 — Public : 2A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 4,
+    "text": "Date ou période : Du lundi 12 au dimanche 18 avril 2027 — Événement : Vacances de printemps — Public : 1A, 2A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 5,
+    "text": "Date ou période : Vendredi 30 avril 2027 — Événement : Date limite des demandes d'année de césure — Public : 2A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 6,
+    "text": "Date ou période : Lundi 31 mai 2027 — Événement : Date limite des demandes de changement de filière — Public : 1A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 7,
+    "text": "Date ou période : Vendredi 4 juin 2027 — Événement : Fin des cours des semestres pairs — Public : 1A, 2A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 8,
+    "text": "Date ou période : Du lundi 7 au vendredi 18 juin 2027 — Événement : Examens finaux S2, S4 — Public : 1A, 2A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 9,
+    "text": "Date ou période : Mercredi 23 juin 2027 — Événement : Publication des résultats des semestres pairs — Public : 1A, 2A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 10,
+    "text": "Date ou période : Mercredi 30 juin 2027 — Événement : Date limite d'inscription au rattrapage des modules S2, S4 — Public : 1A, 2A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 2,
+    "row": 1,
+    "text": "Date ou période : Du lundi 5 au vendredi 16 juillet 2027 — Événement : Session de rattrapage unique (modules de tous les semestres) — Public : Étudiants inscrits"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 2,
+    "row": 2,
+    "text": "Date ou période : Du lundi 12 au vendredi 23 juillet 2027 — Événement : Soutenances de PFE — session 1 — Public : 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 2,
+    "row": 3,
+    "text": "Date ou période : Mercredi 21 juillet 2027 — Événement : Délibérations des jurys d'année et publication des décisions de passage — Public : 1A, 2A, 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 2,
+    "row": 4,
+    "text": "Date ou période : Du lundi 20 septembre au vendredi 1er octobre 2027 — Événement : Soutenances de PFE — session 2 — Public : 3A"
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "page": 2,
+    "table": 2,
+    "row": 5,
+    "text": "Date ou période : Samedi 23 octobre 2027 — Événement : Cérémonie de remise des diplômes de la promotion 2027 — Public : Diplômés"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 1,
+    "text": "Service : Horaires de la bibliothèque — Modalités : Du lundi au vendredi de 8h30 à 20h00 ; le samedi de 9h00 à 13h00"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 2,
+    "text": "Service : Prêt d'ouvrages — Modalités : 4 ouvrages au maximum pour 3 semaines, renouvelable une fois"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 3,
+    "text": "Service : Salles de travail en groupe — Modalités : Réservation sur le Portail Scolarité, 2 heures au maximum par jour et par groupe"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 1,
+    "table": 2,
+    "row": 4,
+    "text": "Service : Ressources numériques — Modalités : Accès aux bases documentaires depuis le réseau de l'École et à distance avec les identifiants étudiants"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 1,
+    "text": "Club : Club IA et Données — Activités principales : Ateliers d'apprentissage automatique, participation à des compétitions de science des données"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 2,
+    "text": "Club : Club Robotique — Activités principales : Conception de robots, participation à des concours inter-écoles"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 3,
+    "text": "Club : Club Cybersécurité — Activités principales : Entraînements et compétitions de type « Capture The Flag » (CTF), conférences"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 4,
+    "text": "Club : Club Entrepreneuriat — Activités principales : Accompagnement de projets de start-up, rencontres avec des entrepreneurs"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 5,
+    "text": "Club : Club Développement Web et Mobile — Activités principales : Projets open source, hackathons internes"
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 6,
+    "text": "Club : Club Théâtre — Activités principales : Ateliers hebdomadaires et spectacle de fin d'année"
+  },
+  {
+    "file": "07_Note_de_service_2026-14.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 1,
+    "text": "Règle : Durée minimale du PFE — Guide des stages et du PFE (15 juin 2026) : 16 semaines — À partir de la présente note : 18 semaines"
+  },
+  {
+    "file": "07_Note_de_service_2026-14.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 2,
+    "text": "Règle : Durée maximale du PFE — Guide des stages et du PFE (15 juin 2026) : 24 semaines — À partir de la présente note : 24 semaines (inchangée)"
+  },
+  {
+    "file": "07_Note_de_service_2026-14.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 3,
+    "text": "Règle : Délai de dépôt du rapport — Guide des stages et du PFE (15 juin 2026) : 10 jours calendaires avant la soutenance — À partir de la présente note : 14 jours calendaires avant la soutenance"
+  },
+  {
+    "file": "07_Note_de_service_2026-14.pdf",
+    "page": 2,
+    "table": 1,
+    "row": 4,
+    "text": "Règle : Déclaration d'utilisation de l'IA générative — Guide des stages et du PFE (15 juin 2026) : Non prévue spécifiquement — À partir de la présente note : Annexe obligatoire dans le rapport"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "file": "01_Reglement_des_etudes_2026-2027.pdf",
+    "metadata": {
+      "Organisme émetteur": "Direction des Études de l'École d'Ingénieurs Hélianthe — organisme fictif",
+      "Type de document": "Règlement officiel",
+      "Référence": "EIH-DE-REG-2026",
+      "Date de publication": "10 juillet 2026",
+      "Version": "1.0 (adoptée par le Conseil d'établissement le 2 juillet 2026)",
+      "Public visé": "Étudiants du cycle ingénieur (1A, 2A, 3A), enseignants, personnels administratifs",
+      "Statut": "En vigueur à compter du 14 septembre 2026"
+    }
+  },
+  {
+    "file": "02_Guide_stages_PFE_2026.pdf",
+    "metadata": {
+      "Organisme émetteur": "Service des Relations Entreprises (SRE) de l'École d'Ingénieurs Hélianthe — organisme fictif",
+      "Type de document": "Guide pratique",
+      "Référence": "EIH-SRE-GUIDE-2026",
+      "Date de publication": "15 juin 2026",
+      "Version": "3.0",
+      "Public visé": "Étudiants du cycle ingénieur, encadrants académiques, entreprises d'accueil",
+      "Statut": "En vigueur pour l'année 2026-2027, sous réserve des notes de service ultérieures"
+    }
+  },
+  {
+    "file": "03_Charte_mobilite_internationale.pdf",
+    "metadata": {
+      "Organisme émetteur": "Bureau des Relations Internationales (BRI) de l'École d'Ingénieurs Hélianthe — organisme fictif",
+      "Type de document": "Charte et procédure",
+      "Référence": "EIH-BRI-CHARTE-2026",
+      "Date de publication": "20 avril 2026",
+      "Version": "2.1",
+      "Public visé": "Étudiants de 2A candidats à une mobilité, étudiants de 3A en mobilité, responsables de filière",
+      "Statut": "En vigueur ; s'applique aux candidatures déposées à partir de l'année 2026-2027"
+    }
+  },
+  {
+    "file": "04_Calendrier_academique_2026-2027.pdf",
+    "metadata": {
+      "Organisme émetteur": "Direction des Études de l'École d'Ingénieurs Hélianthe — organisme fictif",
+      "Type de document": "Calendrier officiel",
+      "Référence": "EIH-DE-CAL-2026",
+      "Date de publication": "10 juillet 2026",
+      "Version": "1.0",
+      "Public visé": "Tous les étudiants et personnels de l'École",
+      "Statut": "En vigueur ; les modifications éventuelles sont publiées par note de service"
+    }
+  },
+  {
+    "file": "05_Guide_vie_etudiante.pdf",
+    "metadata": {
+      "Organisme émetteur": "Bureau de la Vie Étudiante (BVE) de l'École d'Ingénieurs Hélianthe — organisme fictif",
+      "Type de document": "Guide d'information",
+      "Référence": "EIH-BVE-GUIDE-2026",
+      "Date de publication": "1er septembre 2026",
+      "Version": "1.2",
+      "Public visé": "Tous les étudiants, en particulier les nouveaux arrivants de 1A",
+      "Statut": "En vigueur pour l'année 2026-2027"
+    }
+  },
+  {
+    "file": "06_FAQ_Scolarite.pdf",
+    "metadata": {
+      "Organisme émetteur": "Service de la Scolarité de l'École d'Ingénieurs Hélianthe — organisme fictif",
+      "Type de document": "FAQ (questions-réponses)",
+      "Référence": "EIH-SCOL-FAQ-2026",
+      "Date de publication": "21 septembre 2026",
+      "Version": "1.0",
+      "Public visé": "Étudiants du cycle ingénieur",
+      "Statut": "Document d'information ; en cas de divergence, les textes réglementaires prévalent"
+    }
+  },
+  {
+    "file": "07_Note_de_service_2026-14.pdf",
+    "metadata": {
+      "Organisme émetteur": "Direction des Études de l'École d'Ingénieurs Hélianthe — organisme fictif",
+      "Type de document": "Note de service (texte modificatif)",
+      "Référence": "EIH-DE-NS-2026-14",
+      "Date de publication": "5 octobre 2026",
+      "Version": "1.0",
+      "Public visé": "Étudiants de 3A, encadrants académiques, Service des Relations Entreprises",
+      "Statut": "En vigueur ; modifie partiellement le Guide des stages et du PFE (EIH-SRE-GUIDE-2026, version 3.0)"
+    }
+  }
+]
