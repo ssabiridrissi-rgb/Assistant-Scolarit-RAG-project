@@ -383,6 +383,6 @@ du rapport.
 Binôme du module **3ACINFO** — Université Mundiapolis
 
 - **Saad Idrissi**
-- **Mohamed Bouhsassoune** *(à compléter)*
+- **Mohamed Bouhsassoune** 
 
 <sub>L'École d'Ingénieurs Hélianthe et son corpus sont fictifs et utilisés à des fins pédagogiques.</sub>
